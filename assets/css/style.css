@@ -1,0 +1,61 @@
+
+.section{
+    margin-top: 15rem !important;
+}
+
+.item{
+    margin-left: 100rem !important;
+}
+
+.section h1{
+    font-size: 5rem;
+    margin-bottom: 30px;
+}
+
+.btn{
+    margin-top: 30px;
+    width: 15rem;
+    height: 2.7rem;
+    font-weight: 600 !important;
+    background: red !important;
+    border: none !important;
+    border: 2px solid red;
+
+}
+
+span{
+    color: red;
+}
+
+.navbar-brand{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+.logo{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+.icon{
+    font-size: 2rem;
+    color: red;
+    transition: all 0.3s;cursor: pointer;
+}
+
+.icon:hover{
+    transition: all 0.3s;
+    transform: translateX(30px);
+}
+
+.btn:hover{
+    background: none !important;
+    color: red !important;
+    border: 2px solid red !important;
+}
+
+.navbar{
+    background: none !important;
+}
