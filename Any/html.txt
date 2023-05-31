@@ -1,0 +1,205 @@
+<nav class="navbar navbar-expand-sm navbar-light">
+        <a class="navbar-brand" href="#"><img class="logi img-fluid"
+                src="https://static.vecteezy.com/ti/vetor-gratis/p3/8302420-eps10-vermelho-usuario-icone-solido-ou-logotipo-em-simples-plano-moderno-estilo-isolado-em-fundo-branco-gratis-vetor.jpg"
+                alt="">Portfólio</a>
+        <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId"
+            aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation"></button>
+        <div class="collapse navbar-collapse" id="collapsibleNavId">
+            <ul class="navbar-nav item mr-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Início <span class="sr-only"></span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#projeto">Projetos</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle cont" href="#" id="dropdownId" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">Contato</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownId">
+                        <a class="dropdown-item" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a class="dropdown-item" href="#">Action 2</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row section">
+            <div class="col-12 col-sm-6 col-md-6">
+                <i class="fa-solid icon fa-arrow-right"></i>
+                <h1>Bem vindo ao meu <span>portifólio!</span> </h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia voluptates ut, excepturi
+                    asperiores consectetur voluptas, veniam repellendus sit, praesentium quis perferendis repudiandae.
+                    Fugit, earum error asperiores cumque incidunt doloremque perferendis.</p>
+                <button class="btn btn5 btn-dark">Confira já</button>
+            </div>
+            <div class="col-12 col-sm-6 col-md-6">
+                <img src="https://img.freepik.com/free-vector/conversation-concept-illustration_114360-1102.jpg?w=1380&t=st=1684938762~exp=1684939362~hmac=30e8b312c908c1b3983312eda2b5959776cb28026844030d545a015f2b58a227" alt="" class="img-fluid">
+            </div>
+        </div>
+        <div class="ga text-center container-fluid">
+            <img class="go img-fluid" src="https://cdn-icons-png.flaticon.com/512/271/271210.png" alt="">
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="container mt-5 lol">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-6">
+                <h1>Minhas <span>Habilidades</span> </h1>
+                <br>
+                <p class="text-dark pp">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore magni officia suscipit facere quis
+                    voluptatibus asperiores culpa est similique commodi doloribus officiis id nostrum quam voluptatem
+                    eos, aspernatur modi hic? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente rem
+                    repudiandae tenetur odio nisi neque aliquam velit. Voluptas, accusantium facere suscipit excepturi
+                    quia vero, soluta, maiores ad rem fuga hic. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Omnis debitis, eum quidem culpa reprehenderit nostrum laudantium et deserunt eius nobis cum sint vel
+                    ab iste expedita odio veniam? Dolorum, inventore? Lorem ipsum, dolor sit amet consectetur
+                    adipisicing elit. Similique harum consectetur, dignissimos libero numquam laudantium quis.
+                    Laudantium impedit distinctio eveniet tenetur, amet ullam voluptates sequi perspiciatis aspernatur,
+                    debitis rem voluptatibus! </p>
+                    <button class="btn btn-danger">Saiba Mais</button>
+            </div>
+            <div class="col-12 col-sm-6 col-md-6">
+                <img class="img-fluid" src="https://img.freepik.com/free-vector/grades-concept-illustration_114360-628.jpg?w=1380&t=st=1684938598~exp=1684939198~hmac=4a5cb32868a0e2edf6839ce6354e694f409fd446b97d2512910efe855520221a" alt="">
+            </div>
+        </div>
+    </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-sm-6 col-md-6">
+            <img class="img-fluid" src="https://img.freepik.com/free-vector/hand-drawn-colorful-innovation-concept_52683-76158.jpg?w=1380&t=st=1684939387~exp=1684939987~hmac=81a834bcd55b1928cb9838e486c62de51b462b3642bea6385479c8eb123d7ece" alt="">
+        </div>
+        <div class="col-12 col-sm-6 col-md-6">
+            <h1>Minhas <span>Capacidades</span> </h1>
+            <p class="text-dark pp">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore magni officia suscipit facere quis
+                voluptatibus asperiores culpa est similique commodi doloribus officiis id nostrum quam voluptatem
+                eos, aspernatur modi hic? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente rem
+                repudiandae tenetur odio nisi neque aliquam velit. Voluptas, accusantium facere suscipit excepturi
+                quia vero, soluta, maiores ad rem fuga hic. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Omnis debitis, eum quidem culpa reprehenderit nostrum laudantium et deserunt eius nobis cum sint vel
+                ab iste expedita odio veniam? Dolorum, inventore? Lorem ipsum, dolor sit amet consectetur
+                adipisicing elit. Similique harum consectetur, dignissimos libero numquam laudantium quis.
+                Laudantium impedit distinctio eveniet tenetur, amet ullam voluptates sequi perspiciatis aspernatur,
+                debitis rem voluptatibus! </p>
+                <button class="btn btn-danger">Saiba Mais</button>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="proj text-center mt-5">
+    <h1>Meus Projetos E <span>Trabalhos</span></h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+</div>
+
+<div class="container" id="projeto">
+<div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+      <div class="card">
+        <img src="https://img.freepik.com/free-vector/pregnancy-test-concept-illustration_114360-3491.jpg?w=826&t=st=1684939727~exp=1684940327~hmac=9ed0ae0c9ecac9318f43aca0ecb4985f00efb60fc7e7ddd5f525054360c09a11" class="card-img-top fot" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Manual do aluno 2022</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet iste nisi quasi quae praesentium at!</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="https://img.freepik.com/free-vector/feeling-blue-concept-illustration_114360-1485.jpg?w=826&t=st=1684939847~exp=1684940447~hmac=9ae59316ad23201611a8b9ce2179818f3c9ce72cbe329162141d51924cab9e37" class="card-img-top fot" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Pizzaria seu josé</h5>
+          <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem quia provident id? Nihil, deserunt illum?</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="https://img.freepik.com/free-vector/women-talking-concept-illustration_114360-8911.jpg?w=1380&t=st=1684939867~exp=1684940467~hmac=45920e506ac01c1901d25cafd36686b41bb4a9e5201fbf6efd49d25ee7447e5e" class="card-img-top fot" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Clone Spotify</h5>
+          <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem quia provident id? Nihil, deserunt illum?</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="https://img.freepik.com/free-vector/mobile-testing-concept-illustration_114360-1564.jpg?w=1380&t=st=1684939884~exp=1684940484~hmac=0d28a4361df94741331b1e80186597ef70a5909319f446e768b5b916fee2d98d" class="card-img-top fot" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Este Portifólio</h5>
+          <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem quia provident id? Nihil, deserunt illum?</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <div class="container text-center">
+    <h1>Deixe seu e-mail para <span>contato</span> </h1>
+    <form>
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Seu E-Mail</label>
+          <br>
+          <input type="email" class="form-control formm" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <br>
+          <div id="emailHelp" class="form-text">Lorem ipsum dolor sit amet. Lorem, ipsum dolor.</div>
+        </div>
+        <button type="submit" class="btn bb btn-primary">Enviar</button>
+      </form>
+  </div>
+
+
+
+    
+    
+    <footer class="bg-light text-dark">
+      <div class="container-fluid py-3">
+      <div class="row">
+        <div class="col-4">
+          <ul class="nav flex-column">
+            <li class="nav-link text-dark"><a class="text-danger" href="#">Retornar</a></li>
+            <li class="nav-link text-dark"><a class="text-danger" href="#">Sobre</a></li>
+            <li class="nav-link text-dark"><a class="text-danger" href="#">Contato</a></li>
+            <li class="nav-link text-dark"><a class="text-danger" href="#">Projetos</a></li>
+          </ul>
+        </div>
+        <div class="col-8">
+          <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem sed necessitatibus id asperiores iste fugiat,             praesentium obcaecati explicabo consequatur voluptatem eos earum blanditiis dolorem eaque veritatis libero?               Magni, nam fugiat.
+          </p>
+          <ul class="nav">
+            <li class="nav-link" ><i class="fab fa-facebook fa-3x text-danger"></i></li>
+            <li class="nav-link"><i class="fab fa-instagram fa-3x text-danger"></i></li>
+            <li class="nav-link"><i class="fab fa-twitter fa-3x text-danger"></i></li>
+            <li class="nav-link"><i class="fab fa-whatsapp fa-3x text-danger"></i></li>
+          </ul>
+        </div>
+      </div>
+      </div>
+      <div class="text-center text-light" style="background-color: #333; padding: 20px;" >
+        &copy 2023 Copyright: <a class="text-danger" href="#">Portifólio Kauan</a>
+      </div>
+    </footer>
+  </body>
+  </html>
