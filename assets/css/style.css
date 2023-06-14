@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
   *{
     font-family: 'Poppins', sans-serif !important;
@@ -12,44 +12,86 @@
     height: 70vh;
   }
 
+  .main{
+    margin-top: 10rem !important;
+  }
+
+  .btn{
+    background: rgb(109, 70, 11) !important;
+    border: 2px solid rgb(109, 70, 11) !important;
+    width: 10rem;
+  }
+
+  .btn:hover{
+    background: none !important;
+    color: rgb(158, 104, 23) !important;
+  }
+
+  .eu{
+    border-radius: 50%;
+    border: 8px solid rgb(184, 184, 184);
+    height: 60vh !important;
+    transition: all 0.3s;
+}
+
+.eu:hover{
+  border-radius: 50% 50% 10%;
+  transition: all 0.3s;
+  border: 8px solid rgb(158, 104, 23);
+  cursor: pointer;
+}
 
 @media (max-width: 576px) { 
     .bg{
-        height: 100vh;
+        height: 80vh;
         background-position: right;
+    }
+    .eu{
+      height: 100% !important;
+    }
+    .nome{
+      font-size: 2.5rem;
+      text-align: center;
+      color: white;
     }
  }
 
-@media (max-width: 768px) {
-
- }
+@media (min-width: 577px) and (max-width:1200px){
+  .bg{
+    height: 80vh;
+    background-position: right;
+}
+.eu{
+  height: 100% !important;
+}
+}
 
 @media (max-width: 992px) { 
 
 }
 
-
 @media (max-width: 1200px) { 
     
  }
-
 
 @media (max-width: 1400px) {
 
  }
 
-.eu{
-    border-radius: 50%;
-    border: 8px solid rgb(184, 184, 184);
-
-}
-
-.ou{
-    margin-top: 20rem;
-    margin-left: 8rem;
-}
-
 span{
     color: rgb(158, 104, 23);
 }
 
+.progress{
+  width: 65% !important;
+}
+
+.tecs{
+  height: 100px !important;
+  margin-right: 30px;
+}
+
+.ul{
+  display: flex !important;
+  list-style: none !important;
+}
